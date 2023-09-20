@@ -1,4 +1,9 @@
+Django
+Pillow
 openai
 python-dotenv
 numpy
 scikit-learn
+matplotlib
+plotly
+pandas
